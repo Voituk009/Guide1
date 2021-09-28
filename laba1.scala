@@ -1,3 +1,4 @@
+
 //типы даных
 //var x: Int = 12
 //var x1: Double = 2.2
